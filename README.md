@@ -41,4 +41,4 @@ Planned components, links, and prices
 ## Mouse
 
 
-# PC build guide
+# Building instructions
