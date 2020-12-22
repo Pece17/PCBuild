@@ -5,7 +5,7 @@ A leisure project for building my first gaming PC
 
 ## Author
 
-- Pekka Hämäläinen
+Pekka Hämäläinen
 
 
 # Components
