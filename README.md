@@ -7,16 +7,6 @@ A leisure project for building my first gaming PC
 
 - Pekka Hämäläinen
 
-- matthew
-
-- lol
-
-sdf
-
-- yo
-- pekka
-- akkep
-
 
 # Components
 
@@ -24,16 +14,21 @@ sdf
 ## GPU
 
 - Asus TUF-RTX3080-O10G-GAMING
+- https://www.verkkokauppa.com/fi/product/2928/nxgnb/Asus-TUF-RTX3080-O10G-GAMING-naytonohjain-PCI-e-vaylaan
+- 919,90€
 
+[]
 
-### Link
+[x]
 
-https://www.verkkokauppa.com/fi/product/2928/nxgnb/Asus-TUF-RTX3080-O10G-GAMING-naytonohjain-PCI-e-vaylaan
+- []
+- [x]
 
+asd
 
-### Price
+- []
 
-919,90€
+- [x]
 
 
 ## CPU
