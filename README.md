@@ -13,7 +13,7 @@ Pekka Hämäläinen
 
 ## GPU
 
-- Asus TUF-RTX3080-O10G-GAMING
+- ```Asus TUF-RTX3080-O10G-GAMING```
 
 
 ## CPU
