@@ -16,7 +16,14 @@ Pekka Hämäläinen
 - Asus TUF-RTX3080-O10G-GAMING
 
 
-##### asdsa
+### Link
+
+
+### Price
+
+919,90€
+
+[]
 
 
 ## CPU
