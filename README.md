@@ -10,7 +10,7 @@ Pekka Hämäläinen
 
 ## GPU
 
-1.
+1.yo
 
 2.
 
