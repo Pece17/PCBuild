@@ -23,7 +23,7 @@ Pekka Hämäläinen
 
 919,90€
 
-[]
+[x]
 
 
 ## CPU
