@@ -10,13 +10,13 @@ Pekka Hämäläinen
 
 ## GPU
 
-1.yo
+1. yo
 
-2.
+2. yo
 
-3.
+3. yo
 yo
 
-1.
-2.
-3.
+1. yo
+2. yo
+3. yo
