@@ -8,27 +8,30 @@ A leisure project for building my first gaming PC
 Pekka Hämäläinen
 
 
-# GPU
+# Components
+
+
+## GPU
 
 - RTX 3080
 
 
-# CPU
+## CPU
 
 
-# Motherboard
+## Motherboard
 
 
-# Sound card
+## Sound card
 
 
-# Case
+## Case
 
 
-# Monitor
+## Monitor
 
 
-# Keyboard
+## Keyboard
 
 
-# Mouse
+## Mouse
