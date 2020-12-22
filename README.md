@@ -5,10 +5,12 @@ A leisure project for building my first gaming PC
 
 ## Author
 
-- Pekka Hämäläinen
+Pekka Hämäläinen
 
 
 # Components
+
+Planned components, links, and prices
 
 
 ## GPU
@@ -37,3 +39,6 @@ A leisure project for building my first gaming PC
 
 
 ## Mouse
+
+
+# Building guide
