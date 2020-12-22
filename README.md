@@ -13,7 +13,7 @@ Pekka Hämäläinen
 
 ## GPU
 
-- RTX 3080
+- Asus TUF-RTX3080-O10G-GAMING
 
 
 ## CPU
