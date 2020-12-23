@@ -26,6 +26,12 @@ Planned components, links, and prices
 ## Motherboard
 
 
+## RAM
+
+
+## SSD
+
+
 ## Sound card
 
 
