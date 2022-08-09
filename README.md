@@ -48,7 +48,7 @@ Planned components, links, and prices.
 
 - [x] Trust GXT 960 Graphin
 - https://www.prisma.fi/fi/prisma/trust-gxt-960-graphin-ultrakevyt-pelihiiri
-- ?€
+- 39,95€
 
 
 ## Total price
