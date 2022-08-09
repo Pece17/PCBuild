@@ -1,6 +1,6 @@
 # PC Build
 
-A leisure project for building my first gaming PC
+A leisure project for building my first gaming PC.
 
 
 ## Author
@@ -10,7 +10,7 @@ Pekka Hämäläinen
 
 ## Components
 
-Planned components, links, and prices
+Planned components, links, and prices.
 
 
 ### GPU
@@ -52,4 +52,4 @@ Planned components, links, and prices
 
 ## Building guide
 
-A step-by-step guide for building the PC
+A step-by-step guide for building the PC.
