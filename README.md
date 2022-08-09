@@ -15,7 +15,7 @@ Planned components, links, and prices.
 
 ### GPU
 
-- Asus TUF-RTX3080-O10G-GAMING
+- [ ] Asus TUF-RTX3080-O10G-GAMING
 - https://www.verkkokauppa.com/fi/product/2928/nxgnb/Asus-TUF-RTX3080-O10G-GAMING-naytonohjain-PCI-e-vaylaan
 - 919,90€
 
@@ -45,6 +45,10 @@ Planned components, links, and prices.
 
 
 ### Mouse
+
+- [x] Trust GXT 960 Graphin
+- https://www.prisma.fi/fi/prisma/trust-gxt-960-graphin-ultrakevyt-pelihiiri
+- ?€
 
 
 ## Total price
